@@ -1,0 +1,6 @@
+Rinso Sasest | 1000 | 5
+Daia Kemasan | 2000 | 50
+Rinso Cair | 2500 | 1230
+Rinso 500G | 12000 | 50
+Keyboard | 50000 | 50
+Speaker | 90000 | 75
