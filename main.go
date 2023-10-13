@@ -266,6 +266,7 @@ func pilihMenu() {
 
 }
 
+// fungsi utama
 func main() {
 
 	// mengecek perkondisian apakah panjang argumen yg diinputkan lebih dari 1 argumen
