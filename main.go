@@ -159,6 +159,7 @@ func search() {
 	nama, _ := readerData.ReadString('\n')
 	nama = strings.TrimSpace(nama)
 
+	// Memanggil fungsi searchBarang dengan parameter nama
 	searchBarang(nama)
 }
 
