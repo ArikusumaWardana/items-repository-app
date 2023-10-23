@@ -90,6 +90,7 @@ func inputBarang() {
 
 	fmt.Println("└────────────────────────────────────────────────┘")
 
+	// memasukan data ke dalam slice
 	dataBarang := []string{nama, harga, stok}
 
 	// Membuka file atau membuat file baru dan menambahkan data barang
