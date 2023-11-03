@@ -1,6 +1,6 @@
 package main
 
-// import package
+// import package yang diperlukan
 import (
 	"bufio"
 	"fmt"
